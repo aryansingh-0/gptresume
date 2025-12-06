@@ -1,0 +1,32 @@
+[
+  {
+    "id": "basicInfo",
+    "title": "Basic Information",
+    "component": "AddBasicInfo"
+  },
+  {
+    "id": "experience",
+    "title": "Experience",
+    "component": "AddExperience"
+  },
+  {
+    "id": "education",
+    "title": "Education",
+    "component": "AddEducation"
+  },
+  {
+    "id": "skills",
+    "title": "Skills",
+    "component": "AddSkills"
+  },
+  {
+    "id": "projects",
+    "title": "Projects",
+    "component": "AddProject"
+  },
+  {
+    "id": "certificates",
+    "title": "Certificates",
+    "component": "AddCertificate"
+  }
+]

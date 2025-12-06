@@ -1,0 +1,38 @@
+.editor {
+  font-family: Georgia, serif;
+  font-size: 20px;
+  line-height: 1.8;
+  color: #333;
+  outline: none;
+  min-height: 60vh;
+}
+
+.editor h1 {
+  font-size: 2.5rem;
+  font-weight: bold;
+  margin-bottom: 1rem;
+}
+
+.editor h2 {
+  font-size: 1.75rem;
+  font-weight: bold;
+  margin-top: 2rem;
+  margin-bottom: 1rem;
+}
+
+.editor p {
+  margin-bottom: 1rem;
+}
+
+button {
+  background: #f3f3f3;
+  border: 1px solid #ccc;
+  padding: 6px 10px;
+  font-size: 14px;
+  border-radius: 5px;
+  cursor: pointer;
+}
+
+button:hover {
+  background-color: #e0e0e0;
+}
